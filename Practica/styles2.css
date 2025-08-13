@@ -1,0 +1,168 @@
+.requerimientos-content ul li {
+    background-color: #e0e0e0; 
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .diseno-content {
+    max-width: 800px;
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #f9f9f9; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .diseno-content h3 {
+    color: #333; 
+    border-bottom: 2px solid #ccc; 
+    padding-bottom: 5px;
+  }
+  
+  .diseno-content p,
+  .diseno-content ul {
+    color: #555; 
+    line-height: 1.6; 
+    text-align: justify; 
+  }
+  
+  .diseno-content ul {
+    list-style-type: none; 
+    padding-left: 0;
+  }
+  
+  .diseno-content ul li {
+    background-color: #e0e0e0; 
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .construccion-content {
+    max-width: 800px;
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #f9f9f9; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  .construccion-content h3 {
+    color: #333; 
+    border-bottom: 2px solid #ccc; 
+    padding-bottom: 5px;
+  }
+  .construccion-content p,
+  .construccion-content ul {
+    color: #555;
+    line-height: 1.6; 
+    text-align: justify; /
+  }
+  .construccion-content ul {
+    list-style-type: none; 
+    padding-left: 0;
+  }
+  .construccion-content ul li {
+    background-color: #e0e0e0; 
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .pruebas-content {
+    max-width: 800px;
+    margin: 0 auto; 
+    padding: 20px;
+    background-color: #f9f9f9; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  .pruebas-content h3 {
+    color: #333; 
+    border-bottom: 2px solid #ccc; 
+    padding-bottom: 5px;
+  }
+  .pruebas-content p,
+  .pruebas-content ul {
+    color: #555;
+    line-height: 1.6; 
+    text-align: justify; 
+  }
+  .pruebas-content ul {
+    list-style-type: none; 
+    padding-left: 0;
+  }
+  .pruebas-content ul li {
+    background-color: #e0e0e0; 
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Estilo de la sección de Mantenimiento */
+  .mantenimiento-content {
+    max-width: 800px;
+    margin: 0 auto; /* Centra el contenido en la página */
+    padding: 20px;
+    background-color: #f9f9f9; /* Fondo claro para destacar la sección */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para darle profundidad */
+  }
+  
+  .mantenimiento-content h3 {
+    color: #333; /* Color del texto */
+    border-bottom: 2px solid #ccc; /* Línea inferior para los encabezados */
+    padding-bottom: 5px;
+  }
+  
+  .mantenimiento-content p,
+  .mantenimiento-content ul {
+    color: #555; /* Color del texto */
+    line-height: 1.6; /* Espacio entre líneas */
+    text-align: justify; /* Justifica el texto dentro del contenedor */
+  }
+  
+  .mantenimiento-content ul {
+    list-style-type: none; /* Quita el estilo de la lista */
+    padding-left: 0;
+  }
+  
+  .mantenimiento-content ul li {
+    background-color: #e0e0e0; /* Fondo gris claro para los ítems */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Estilo de la sección de Gestión de Configuración */
+  .gestion-content {
+    max-width: 800px;
+    margin: 0 auto; /* Centra el contenido en la página */
+    padding: 20px;
+    background-color: #f9f9f9; /* Fondo claro para destacar la sección */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para darle profundidad */
+  }
+  
+  .gestion-content h3 {
+    color: #333; /* Color del texto */
+    border-bottom: 2px solid #ccc; /* Línea inferior para los encabezados */
+    padding-bottom: 5px;
+  }
+  
+  .gestion-content p,
+  .gestion-content ul {
+    color: #555; /* Color del texto */
+    line-height: 1.6; /* Espacio entre líneas */
+    text-align: justify; /* Justifica el texto dentro del contenedor */
+  }
+  
+  .gestion-content ul {
+    list-style-type: none; /* Quita el estilo de la lista */
+    padding-left: 0;
+  }
+  
+  .gestion-content ul li {
+    background-color: #e0e0e0; /* Fondo gris claro para los ítems */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
